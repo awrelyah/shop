@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    gap:10px;
+    padding: 0px 20px;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 0 8px rgba(0,0,0,.1);
+}
+
+.home-link{
+    display: flex;
+    align-items: center;
+}
+.shop-link{
+    margin-left:auto;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
