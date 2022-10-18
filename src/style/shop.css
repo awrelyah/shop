@@ -1,5 +1,6 @@
 .shop{
     text-align: center;
+    margin-bottom:20px;
 }
 
 .category{
@@ -10,7 +11,7 @@
     align-items: center;
 }
 
-.sneakers{
+.items{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(auto, 350px));
     gap:15px;
@@ -24,6 +25,19 @@
     flex: 1;
   }
 
+.item{
+    height:300px;
+    padding:5px;
+    background-color: white;
+}
+
+.image{
+    background-color: white;
+    height:175px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 .active-items-link{
     border-bottom: 2px solid black;
@@ -36,12 +50,12 @@
     color: grey;
 }
 
-.sneaker img {
-    width: 50%;
+.item img {
+    width:60%;
   }
   
 
-.sneaker h3{
+.item h3{
     margin: 0;
 }
 

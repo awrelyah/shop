@@ -6,6 +6,7 @@
     border-bottom: 1px solid #ddd;
     box-shadow: 0 0 8px rgba(0,0,0,.1);
     height:50px;
+    background-color: white;
 }
 
 .home-link{
@@ -19,4 +20,8 @@
 a{
     text-decoration: none;
     color:black;
+}
+
+.nav-link:hover{
+    color: rgb(193, 12, 12);
 }

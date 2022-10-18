@@ -38,6 +38,14 @@ export const products = [
         'size': '40',
         'quantity': 1,
         'inCart': false,
+    },
+    {
+        'id': 6,
+        'url': require('./img/flaxslide.png'),
+        'name': 'Yeezy Slide Flax',
+        'size': '48,5',
+        'quantity': 1,
+        'inCart': false,
     }
 
 ]

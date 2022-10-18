@@ -11,8 +11,8 @@ function Shop() {
   }
 
   const sneakerItems = products.map(product => {
-    return <div className='sneaker'>
-      <img src={product.url} alt={product.name} className='item-pic'/>
+    return <div className='item'>
+      <div className='image'><img src={product.url} alt={product.name} className='item-pic'/></div>
       <h3>{product.name}</h3>
       <h3>EU {product.size}</h3>
       <button className='cart-btn'>Add To Cart</button>
@@ -20,8 +20,8 @@ function Shop() {
   })
 
   const clothesItems = clothes.map(item => {
-    return <div className='sneaker'>
-      <img src={item.url} alt={item.name} className='item-pic'/>
+    return <div className='item'>
+      <div className='image'><img src={item.url} alt={item.name} className='item-pic'/></div>
       <h3>{item.name}</h3>
       <h3>{item.size}</h3>
       <button className='cart-btn'>Add To Cart</button>
@@ -34,11 +34,11 @@ function Shop() {
       <h2 onClick={() => changeItems('clothing')} className={activeItems === 'clothing' && 'active-items-link'}>Clothing</h2>
       </div>
       { activeItems === 'footwear' ?
-        <div className='sneakers'>
+        <div className='items'>
             {sneakerItems}
         </div>
         :
-        <div className='sneakers'>
+        <div className='items'>
           {clothesItems}
         </div>
       }
