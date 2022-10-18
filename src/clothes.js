@@ -4,6 +4,7 @@ export const clothes = [
         'url': require('./img/shirt.png'),
         'name': 'FOG Essentials Taupe T-Shirt',
         'size': 'M',
+        'price': 100,
         'quantity': 1,
         'inCart': false,
     },
@@ -12,6 +13,7 @@ export const clothes = [
         'url': require('./img/hoodie.png'),
         'name': 'FOG Essentials Concrete Hoodie',
         'size': 'L',
+        'price': 140,
         'quantity': 1,
         'inCart': false,
     }
