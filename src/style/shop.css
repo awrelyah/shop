@@ -1,0 +1,55 @@
+.shop{
+    text-align: center;
+}
+
+.category{
+    display: flex;
+    justify-content: center;
+    gap:25px;
+    height:100px;
+    align-items: center;
+}
+
+.sneakers{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(auto, 350px));
+    gap:15px;
+    justify-items:center;
+    align-items: center;
+    justify-content: center;
+    padding: 1px 25px 1px 25px;
+    padding:20px;
+    padding-top:4px;
+    height: max-content;
+    flex: 1;
+  }
+
+
+.active-items-link{
+    border-bottom: 2px solid black;
+}
+
+.cart-btn{
+    border:none;
+    background-color: white;
+    border-radius: 20px;
+    color: grey;
+}
+
+.sneaker img {
+    width: 50%;
+  }
+  
+
+.sneaker h3{
+    margin: 0;
+}
+
+.cart-btn:hover{
+    background-color: grey;
+    color:white;
+}
+
+h2:hover{
+    font-size: 1.8rem;
+}
