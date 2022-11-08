@@ -10,6 +10,7 @@ function Shop(props) {
     setActiveItems(el);
   }
 
+
   const sneakerItems = products.map(product => {
     return <div className='item' key={product.id}>
       <div className='image'><img src={product.url} alt={product.name} className='item-pic'/></div>

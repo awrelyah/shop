@@ -74,3 +74,38 @@
     background-color: rgb(193, 12, 12);
     color:black;
 }
+
+
+@media  only screen and (max-width: 700px) {
+    .cart{
+        width: 100vw;
+        padding:0;
+        padding-bottom:10px;
+        height:70vh;
+    }
+
+    .cart-item,     
+    .titles{
+        width: 99vw;
+        font-size: 0.6rem;
+        margin:2px;
+        justify-content:baseline;
+        gap:2px;
+    
+    }
+
+    .quantity{
+        margin:10px;
+    }
+
+    .cart-item img{
+        width:15vw;
+    }
+
+    .item-description{
+        width:max-content;
+        margin-left:20vw;
+    }
+
+
+}
