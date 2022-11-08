@@ -9,14 +9,14 @@ function Homepage() {
     <div className='homepage'>
         <div className='container-row'>
             <div className='container left'>
-                <img width='100px' src={logo} alt='logo' />
-                <h1>BALTIC SNKRS - SNEAKERS & CLOTHING</h1>
-                <h4>100% authentic shoes and clothing</h4>
-                <h4>based in Tallinn, Estonia</h4>
+            <img width='100px' src={logo} alt='logo' />
+            <h3>BALTIC SNKRS - SNEAKERS & CLOTHING</h3>
+                <h1>100% authentic shoes and clothing</h1>
+                <h3>based in Tallinn, Estonia</h3>
                 <Link to="/shop" className='shop-now-btn'>Shop Now</Link>
             </div>
-            <div className='container'>
-                <img src={shoe} alt='spinning shoe' className='shoe-img'/>
+            <div className='container right'>
+              <img src={shoe} alt='spinning shoe' className='shoe-img'/>
             </div>
         </div>
     </div>
