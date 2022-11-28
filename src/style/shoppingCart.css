@@ -84,14 +84,16 @@
         height:70vh;
     }
 
-    .cart-item,     
-    .titles{
+    .cart-item{
         width: 99vw;
-        font-size: 0.6rem;
+        font-size: 0.8em;
         margin:2px;
-        justify-content:baseline;
-        gap:2px;
+        justify-content:space-evenly;
+        gap:10px;
     
+    }
+    .item-name{
+        height:max-content;
     }
 
     .quantity{

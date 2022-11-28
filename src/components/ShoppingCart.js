@@ -30,13 +30,7 @@ function ShoppingCart({ cartItems }) {
       {cartItems.length > 0 ? (
         <div className="cart">
           <div className="cart-items">
-            <div className="titles">
-              <div className="item-description">item description</div>
-              <div>size</div>
-              <div>quantity</div>
-              <div>remove</div>
-              <div>price</div>
-            </div>
+ 
             {items}
           </div>
           <div className="total">total {total} EUR</div>
