@@ -49,11 +49,13 @@ h3{
     border:none;
     border-radius: 20px;
     color:white;
+    border: 2px solid  black;
 }
 
 .shop-now-btn:hover{
     color: rgb(33, 32, 32);
     background-color:rgb(193, 12, 12);
+    border: 2px solid  rgb(246, 245, 245);
 }
 
 .red-square{
