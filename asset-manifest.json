@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.6adb2fb8.css",
-    "main.js": "/static/js/main.62c20716.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/jordan.gif": "/static/media/jordan.208743e3ee3d646b65ac.gif",
-    "static/media/shirt.png": "/static/media/shirt.0b3d150504234e21cf46.png",
-    "static/media/img.jpg": "/static/media/img.a75bd9d1e00cb5839102.jpg",
-    "static/media/img4.jpg": "/static/media/img4.39334c6691e76a6e95e1.jpg",
-    "static/media/img1.jpg": "/static/media/img1.94a69157a392f3db256b.jpg",
-    "static/media/img3.jpg": "/static/media/img3.51765253b63d7ef039df.jpg",
-    "static/media/img2.jpg": "/static/media/img2.1228226aa52959368f72.jpg",
-    "static/media/logo.png": "/static/media/logo.6b7bc60943ec8eb6d986.png",
-    "static/media/flaxslide.png": "/static/media/flaxslide.943d721f374c47cf87d8.png",
-    "static/media/hoodie.png": "/static/media/hoodie.b2af47895c553d45676b.png",
-    "index.html": "/index.html",
-    "main.6adb2fb8.css.map": "/static/css/main.6adb2fb8.css.map",
-    "main.62c20716.js.map": "/static/js/main.62c20716.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/shop-site/static/css/main.6adb2fb8.css",
+    "main.js": "/shop-site/static/js/main.3a0a7429.js",
+    "static/js/787.28cb0dcd.chunk.js": "/shop-site/static/js/787.28cb0dcd.chunk.js",
+    "static/media/jordan.gif": "/shop-site/static/media/jordan.208743e3ee3d646b65ac.gif",
+    "static/media/shirt.png": "/shop-site/static/media/shirt.0b3d150504234e21cf46.png",
+    "static/media/img.jpg": "/shop-site/static/media/img.a75bd9d1e00cb5839102.jpg",
+    "static/media/img4.jpg": "/shop-site/static/media/img4.39334c6691e76a6e95e1.jpg",
+    "static/media/img1.jpg": "/shop-site/static/media/img1.94a69157a392f3db256b.jpg",
+    "static/media/img3.jpg": "/shop-site/static/media/img3.51765253b63d7ef039df.jpg",
+    "static/media/img2.jpg": "/shop-site/static/media/img2.1228226aa52959368f72.jpg",
+    "static/media/logo.png": "/shop-site/static/media/logo.6b7bc60943ec8eb6d986.png",
+    "static/media/flaxslide.png": "/shop-site/static/media/flaxslide.943d721f374c47cf87d8.png",
+    "static/media/hoodie.png": "/shop-site/static/media/hoodie.b2af47895c553d45676b.png",
+    "index.html": "/shop-site/index.html",
+    "main.6adb2fb8.css.map": "/shop-site/static/css/main.6adb2fb8.css.map",
+    "main.3a0a7429.js.map": "/shop-site/static/js/main.3a0a7429.js.map",
+    "787.28cb0dcd.chunk.js.map": "/shop-site/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6adb2fb8.css",
-    "static/js/main.62c20716.js"
+    "static/js/main.3a0a7429.js"
   ]
 }
