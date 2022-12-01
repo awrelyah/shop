@@ -29,13 +29,13 @@ function ShoppingCart({ cartItems }) {
       <h1>Your Bag</h1>
       {cartItems.length > 0 ? (
         <div className="cart">
-          <div className="cart-items">
- 
-            {items}
-          </div>
+          <div className="cart-items">{items}</div>
           <div className="total">total {total} EUR</div>
           <div className="buttons">
-            <input placeholder="Please enter promo code" />
+            <input
+              placeholder="Please enter promo code"
+              className="promo-input"
+            />
             <button>Apply Discount</button>
             <button>Checkout</button>
           </div>

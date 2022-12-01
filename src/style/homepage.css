@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     text-align: center;
-    height:100vh;
+
 }
 
 .title-container{
@@ -33,7 +33,6 @@ h3{
 .container-row{
     display: flex; 
     padding: 20px;
-    margin-top: 70px;
 }
 
 .shoe-img {
@@ -57,6 +56,27 @@ h3{
     background-color:rgb(193, 12, 12);
 }
 
+.red-square{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(193, 12, 12);
+    position:absolute;
+    z-index: -90;
+    rotate: 45deg;
+    border-radius: 100px;
+}
+.num1{
+    left:-300px;
+    bottom:150px;
+}
+.num2{    
+    width: 250px;
+    height: 250px;
+    rotate: 45deg;
+    right:-150px;
+    bottom:100px;
+    border-radius: 70px;
+}
 
 @media  only screen and (max-width: 700px) {
     .container-row{

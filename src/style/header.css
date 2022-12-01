@@ -7,14 +7,23 @@
     box-shadow: 0 0 8px rgba(0,0,0,.1);
     height:50px;
     background-color: white;
+
 }
 
 .home-link{
     display: flex;
     align-items: center;
+
 }
 .shop-link{
     margin-left:auto;
+}
+
+.cart-link,
+.shop-link{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8rem;
+    font-weight: bold;
 }
 
 a{
