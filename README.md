@@ -1,7 +1,7 @@
 # Shopping site
 
 Tried to practice e-commerde things.
-View it live [here] (https://awrelyah.github.io/shop-site/)
+View it live [here](https://awrelyah.github.io/shop-site/)
 
 # to do
 
