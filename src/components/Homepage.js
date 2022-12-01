@@ -24,6 +24,7 @@ function Homepage() {
 
       <div className="red-square num1"></div>
       <div className="red-square num2"></div>
+      <div className="red-square num3"></div>
     </div>
   );
 }
