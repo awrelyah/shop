@@ -30,6 +30,7 @@ function Shop(props) {
       <button className='cart-btn' onClick={() => props.addToCart(item)}>Add To Cart</button>
       </div>
   })
+  
   return (
     <div className='shop'>
       <div className='category'>
