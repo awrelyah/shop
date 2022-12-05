@@ -6,7 +6,7 @@ function Header(props) {
   return (
     <div>
       <nav className="navbar">
-        <Link to="/shop-site" className="nav-link home-link">
+        <Link to="/shopping-site" className="nav-link home-link">
           <img width="40px" src={logo} alt="logo" />
           Baltic Snkrs
         </Link>
