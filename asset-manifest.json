@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/shop-site/static/css/main.bb82a3fc.css",
-    "main.js": "/shop-site/static/js/main.bc2bac62.js",
-    "static/js/787.28cb0dcd.chunk.js": "/shop-site/static/js/787.28cb0dcd.chunk.js",
-    "static/media/jordan.gif": "/shop-site/static/media/jordan.208743e3ee3d646b65ac.gif",
-    "static/media/shirt.png": "/shop-site/static/media/shirt.0b3d150504234e21cf46.png",
-    "static/media/img.jpg": "/shop-site/static/media/img.a75bd9d1e00cb5839102.jpg",
-    "static/media/img4.jpg": "/shop-site/static/media/img4.39334c6691e76a6e95e1.jpg",
-    "static/media/img1.jpg": "/shop-site/static/media/img1.94a69157a392f3db256b.jpg",
-    "static/media/img3.jpg": "/shop-site/static/media/img3.51765253b63d7ef039df.jpg",
-    "static/media/img2.jpg": "/shop-site/static/media/img2.1228226aa52959368f72.jpg",
-    "static/media/logo.png": "/shop-site/static/media/logo.6b7bc60943ec8eb6d986.png",
-    "static/media/flaxslide.png": "/shop-site/static/media/flaxslide.943d721f374c47cf87d8.png",
-    "static/media/hoodie.png": "/shop-site/static/media/hoodie.b2af47895c553d45676b.png",
-    "index.html": "/shop-site/index.html",
-    "main.bb82a3fc.css.map": "/shop-site/static/css/main.bb82a3fc.css.map",
-    "main.bc2bac62.js.map": "/shop-site/static/js/main.bc2bac62.js.map",
-    "787.28cb0dcd.chunk.js.map": "/shop-site/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/shopping-site/static/css/main.87f7dd8c.css",
+    "main.js": "/shopping-site/static/js/main.9db287eb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/shopping-site/static/js/787.28cb0dcd.chunk.js",
+    "static/media/jordan.gif": "/shopping-site/static/media/jordan.208743e3ee3d646b65ac.gif",
+    "static/media/shirt.png": "/shopping-site/static/media/shirt.0b3d150504234e21cf46.png",
+    "static/media/img.jpg": "/shopping-site/static/media/img.a75bd9d1e00cb5839102.jpg",
+    "static/media/img4.jpg": "/shopping-site/static/media/img4.39334c6691e76a6e95e1.jpg",
+    "static/media/img1.jpg": "/shopping-site/static/media/img1.94a69157a392f3db256b.jpg",
+    "static/media/img3.jpg": "/shopping-site/static/media/img3.51765253b63d7ef039df.jpg",
+    "static/media/img2.jpg": "/shopping-site/static/media/img2.1228226aa52959368f72.jpg",
+    "static/media/logo.png": "/shopping-site/static/media/logo.6b7bc60943ec8eb6d986.png",
+    "static/media/flaxslide.png": "/shopping-site/static/media/flaxslide.943d721f374c47cf87d8.png",
+    "static/media/hoodie.png": "/shopping-site/static/media/hoodie.b2af47895c553d45676b.png",
+    "index.html": "/shopping-site/index.html",
+    "main.87f7dd8c.css.map": "/shopping-site/static/css/main.87f7dd8c.css.map",
+    "main.9db287eb.js.map": "/shopping-site/static/js/main.9db287eb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/shopping-site/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb82a3fc.css",
-    "static/js/main.bc2bac62.js"
+    "static/css/main.87f7dd8c.css",
+    "static/js/main.9db287eb.js"
   ]
 }
