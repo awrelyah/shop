@@ -1,8 +1,11 @@
 .homepage{
+    position: relative;
     display: flex;
     flex-direction: column;
     text-align: center;
-
+    overflow-x:hidden;
+    overflow-y:scroll;
+    height:90vh;
 }
 
 .title-container{
@@ -58,6 +61,7 @@ h3{
     border: 2px solid  rgb(246, 245, 245);
 }
 
+
 .red-square{
     width: 500px;
     height: 500px;
@@ -68,9 +72,10 @@ h3{
     border-radius: 100px;
 }
 .num1{
-    left:-300px;
-    bottom:150px;
+    left:-310px;
+    bottom:130px;
 }
+
 .num2{    
     width: 250px;
     height: 250px;
@@ -89,7 +94,7 @@ h3{
     border-radius: 40px;
 }
 
-@media  only screen and (max-width: 700px) {
+@media  only screen and (max-width: 830px) {
     .container-row{
         flex-direction: column;
     }

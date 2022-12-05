@@ -6,8 +6,10 @@ function Header(props) {
   return (
     <div>
       <nav className="navbar">
-        <Link to="/shopping-site" className="nav-link home-link">
+        <Link to="/shopping-site" className="nav-link icon-link">
           <img width="40px" src={logo} alt="logo" />
+        </Link>
+        <Link to="/shopping-site" className="nav-link home-link">
           Baltic Snkrs
         </Link>
         <Link to="/shop" className="nav-link shop-link">

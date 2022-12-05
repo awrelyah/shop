@@ -6,11 +6,13 @@
     height:50px;
 }
 
-.home-link{
+.icon-link{
     display: flex;
     align-items: center;
+}
+.home-link{
     font-size: 1.2rem;
-
+    margin-left: 0;
 }
 .shop-link{
     margin-left:auto;
@@ -30,4 +32,10 @@ a{
 
 .nav-link:hover{
     color: rgb(193, 12, 12);
+}
+
+@media  only screen and (max-width: 414px){
+    .home-link{
+        display: none;
+    }
 }
